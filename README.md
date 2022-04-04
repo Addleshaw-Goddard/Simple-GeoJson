@@ -5,4 +5,4 @@ Package for loading simplified geoJSON shapes
 
 Example URL to load the world.json data:
 
-https://cdn.jsdelivr.net/gh/Addleshaw-Goddard/Simple-GeoJson/region/world.json
+https://cdn.jsdelivr.net/gh/Addleshaw-Goddard/Simple-GeoJson/region/world.geojson
